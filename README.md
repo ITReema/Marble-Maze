@@ -1,4 +1,4 @@
-# Marble-Maze
+# Marble Maze
 
 In this game rolling ball game for iPad, using the accelerometer you tilt your device, and the balls rolls in that direction, hopefully avoiding holes as you go.
 
